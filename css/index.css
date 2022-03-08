@@ -33,7 +33,7 @@ a {
 
 a::before {
     content: "";
-    background: #ff2600;
+    background: #ce2103;
     width: 10px;
     height: 10px;
     margin-right: 10px;
@@ -41,7 +41,7 @@ a::before {
 
 #button {
     display: inline-block;
-    background-color: #ff2600;
+    background-color: #ce2103;
     box-shadow: 5px 5px 0 #000;
     padding: 18px 20px;
     margin-right: 0px;
